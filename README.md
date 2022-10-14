@@ -4,6 +4,7 @@
 
 ```
 # 1. Clone the repo
+git clone https://github.com/christianvuerings/relay-repo-clientfield-issue.git
 
 # 2. Install dependencies
 npm install
