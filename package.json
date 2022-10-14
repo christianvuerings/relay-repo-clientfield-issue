@@ -1,0 +1,15 @@
+{
+  "name": "relay-repo-clientid-issue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "graphql": "^16.6.0",
+    "relay-compiler": "^14.1.0"
+  }
+}
